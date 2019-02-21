@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://us.123rf.com/450wm/vamariyav/vamariyav1805/vamariyav180500008/101445030-abstract-ancient-antique-background-background-beige-background-canvas-background-design-dust-grunge.jpg?ver=6");
+}
+p {
+    font-family: cursive;
+    font-size:45px;
+    text-align: center;
+}
+.movie {
+    font-family: cursive;
+    font-size:50px;
+    text-align: center;
+}
+.videogame {
+   font-family: 'Pacifico', cursive;
+    font-size:50px;
+    text-align: center;
+}
+.moviesoundtrack {
+    font-family: 'Lobster', cursive;
+    font-size:50px;
+    text-align: center;
+}
+.gamesoundtrack {
+    font-family: 'Dancing Script', cursive;
+    font-size:50px;
+    text-align: center;
+}
+img {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
